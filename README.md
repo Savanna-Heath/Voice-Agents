@@ -4,7 +4,7 @@ link to my agent platform: https://elevenlabs.io/app/talk-to?agent_id=agent_4301
 
 # Reflection Answers:
 
-Branch Design Challenge: What was the most challenging part of designing the conversation branches? Did you discover anything about how voice agents handle different conversation paths?
+Branch Design Challenge: The most challenging part for me was creating the conversation branches and ensuring each branch included enough information so the agent could properly reply or have a backup plan. Some of the voice agents would apologize if they were asked a question on a conversation branch that they did not know much about or did not have enough information on. They would also try to direct you to the main page or to a phone number for additional help. For example, when I asked where a certain building was on campus, he couldn't find the building I was talking about, but offered to list the other buildings in case one sounded familiar, and also suggested I could schedule a tour online or research the campus map on the college website.
 
 Knowledge Base Impact: How did the knowledge base content you added affect the agent's responses? Did certain types of content work better than others?
 
