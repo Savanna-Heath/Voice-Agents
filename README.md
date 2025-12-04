@@ -1,5 +1,3 @@
-# Voice-Agents
-
 # Reflection Answers:
 
 Branch Design Challenge: What was the most challenging part of designing the conversation branches? Did you discover anything about how voice agents handle different conversation paths?
